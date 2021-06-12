@@ -17,31 +17,31 @@ footer {
 }
 
 .w {
-
+  background-image: url("images/tom1.png");
 }
 
 .a {
-
+  background-image: url("images/tom2.png");
 }
 
 .s {
-
+  background-image: url("images/tom3.png");
 }
 
 .d {
-
+  background-image: url("images/tom4.png");
 }
 
 .j {
-
+  background-image: url("images/snare.png");
 }
 
 .k {
-
+  background-image: url("images/crash.png");
 }
 
 .l {
-
+  background-image: url("images/kick.png");
 }
 
 .set {
@@ -73,8 +73,8 @@ footer {
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 140px;
+  height: 140px;
   text-align: center;
   margin: 10px;
   background-color: white;
